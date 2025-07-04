@@ -7,6 +7,7 @@ ubu\adrian\taller\services\EventServices.class
 ubu\adrian\taller\services\ActivityServicesImpl.class
 ubu\adrian\taller\services\ActivityServices.class
 ubu\adrian\taller\controller\AdminController.class
+ubu\adrian\taller\config\WebSecurityConfig.class
 ubu\adrian\taller\dto\UserRegisterDTO.class
 ubu\adrian\taller\model\Categories.class
 ubu\adrian\taller\config\Initializer.class
@@ -15,6 +16,7 @@ ubu\adrian\taller\repository\EventRepository.class
 ubu\adrian\taller\controller\ActivitiesController.class
 ubu\adrian\taller\model\Activity.class
 ubu\adrian\taller\controller\EventController.class
+ubu\adrian\taller\config\ThymeLeafConfig.class
 ubu\adrian\taller\services\UserServicesImpl.class
 ubu\adrian\taller\services\UserServices.class
 ubu\adrian\taller\dto\UserMapper.class
